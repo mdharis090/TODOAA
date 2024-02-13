@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912076794341",
+    "project_id": "todoaa-698a8",
+    "storage_bucket": "todoaa-698a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912076794341:android:3dc0036c9c149a0e5fe70c",
+        "android_client_info": {
+          "package_name": "com.example.todoaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChNcL8stlcT6my4vHOV_BwuxoUVeIPQDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
